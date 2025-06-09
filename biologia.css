@@ -4,12 +4,12 @@
     box-sizing: border-box;
 }
 
-:root {
+:root{
     --preto: #000000;
-    --marinho: #493D9E;
-    --amarelo-claro: #FFF2AF;
-    --roxo-claro: #B2A5FF;
-    --verde: #99BC85;
+    --marinho: #333446;
+    --amarelo-claro:#7F8CAA;
+    --roxo-claro:#B8CFCE;
+    --verde: #6e6c85;
     --azul-claro: #E4EFE7;
     --branco: #FFFFFF;
     --marron-claro: #FAF1E6;
